@@ -1,7 +1,9 @@
 {
     "project_name":"project",
     "app_name": "app",
-    "full_name":"",
-    "email":"",
-    "version":""
+    "server_host":"localhost",
+    "server_port":"8000",
+    "database_name":"mongodb",
+    "database_host":"localhost",
+    "database_port":"27017"
 }
