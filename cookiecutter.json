@@ -1,6 +1,7 @@
 {
     "project_name":"project",
     "app_name": "app",
+    "file_env_name":"env",
     "server_host":"localhost",
     "server_port":"8000",
     "database_name":"mongodb",
