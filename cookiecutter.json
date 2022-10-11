@@ -1,4 +1,7 @@
 {
     "project_name":"project",
-    "app_name": "app"
+    "app_name": "app",
+    "full_name":"",
+    "email":"",
+    "version":""
 }
