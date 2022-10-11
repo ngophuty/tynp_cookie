@@ -1,8 +1,6 @@
-from env import env
-
-
 import uvicorn
 from fastapi import FastAPI
+from env import env
 
 app = FastAPI()
 
