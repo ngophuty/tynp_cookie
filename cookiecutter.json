@@ -1,3 +1,5 @@
 {
-    "folder_name":"tynp"
+    "project_name":"project",
+    "app_name":"app",
+    "fie_env_name":"env"
 }
