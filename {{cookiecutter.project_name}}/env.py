@@ -1,5 +1,5 @@
 from pydantic import BaseSettings
-
+from {{cookiecutter.app_name}} import handler
 
 class Enviroment(BaseSettings):
 
