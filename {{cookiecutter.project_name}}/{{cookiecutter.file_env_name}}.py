@@ -1,5 +1,5 @@
 from pydantic import BaseSettings
-# from {{cookiecutter.file_env_name}} import env
+from {{cookiecutter.file_env_name}} import env
 
 
 class Enviroment(BaseSettings):
