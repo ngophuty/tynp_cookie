@@ -3,5 +3,5 @@
     "app_name": "app",
     "file_env_name":"env",
     "connect_database": ["yes","no"],
-    "{% if cookiecutter.connect_database == 'yes'%}database{% endif %}": ["s","q"]
+    "database": "{% if cookiecutter.connect_database == 'yes' %}{{['s','a']}}{% endif %}"
 }
