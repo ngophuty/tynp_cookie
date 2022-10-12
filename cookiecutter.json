@@ -2,6 +2,5 @@
     "project_name":"project",
     "app_name": "app",
     "file_env_name":"env",
-    "connect_database": ["yes","no"],
-    "database": "{% if cookiecutter.connect_database == 'yes' %}{{['s','a']}}{% endif %}"
+    "database": ["mongodb","postgres","mysql","no"]
 }
