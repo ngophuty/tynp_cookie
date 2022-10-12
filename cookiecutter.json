@@ -2,5 +2,5 @@
     "project_name":"project",
     "app_name": "app",
     "file_env_name":"env",
-    "choose_database": ["mongodb","postgresdb","mySQL"]
+    "database": ["mongodb","postgres","mySQL"]
 }
