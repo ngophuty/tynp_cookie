@@ -3,5 +3,5 @@
     "app_name": "app",
     "file_env_name":"env",
     "connect_database": ["yes","no"],
-    "database": ["mongodb","postgres","mysql"]
+    "database": "{% if cookiecutter.connect_database == 'yes'}['mongodb','postgres','mysql']{% endif %}"
 }
