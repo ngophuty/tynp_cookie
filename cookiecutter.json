@@ -2,6 +2,6 @@
     "project_name":"project",
     "app_name": "app",
     "file_env_name":"env",
-    "connect_database": ["yes","no"]
-    
+    "connect_database": ["yes","no"],
+    "database": ["mongodb","postgres","mysql"]
 }
