@@ -1,4 +1,4 @@
-from env import env
+from {{cookiecutter.file_env_name}} import env
 
 
 import uvicorn
